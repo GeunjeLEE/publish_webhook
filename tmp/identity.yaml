@@ -1,0 +1,4 @@
+identity:
+  image:
+    name: public.ecr.aws/megazone/spaceone/identity
+    version: latest
